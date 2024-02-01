@@ -59,12 +59,12 @@ const styles = StyleSheet.create({
     borderRadius: 4,
   },
   image: {
-      width: 150,
-      height: 150
+      width: 250,
+      height: 250
   },
   text: {
-    fontSize: 24,
+    fontSize: 28,
     fontWeight: 'bold',
-    marginBottom: 10,
+    margin: 20,
   }
 });
